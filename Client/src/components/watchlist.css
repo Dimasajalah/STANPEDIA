@@ -1,0 +1,15 @@
+/* Add this to your CSS */
+.watchlist-button {
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+  }
+  
+  .watchlist-button:hover {
+    background-color: #e0e0e0; /* Change the background color on hover as desired */
+    cursor: pointer;
+  }
+  
+  .watchlist-button.active {
+    background-color: #ffc107; /* Change the background color when active as desired */
+    transform: scale(1.1); /* Add a scale effect when active */
+  }
+  

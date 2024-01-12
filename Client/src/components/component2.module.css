@@ -1,0 +1,393 @@
+.component2Child {
+    position: absolute;
+    height: 94.08%;
+    width: 95.85%;
+    top: 0;
+    right: 4.15%;
+    bottom: 5.92%;
+    left: 0;
+    background-color: #ebeff3;
+  }
+  .instanceChild {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .component2Inner {
+    position: absolute;
+    height: 94.08%;
+    width: 95.85%;
+    top: 0;
+    right: 4.15%;
+    bottom: 5.92%;
+    left: 0;
+  }
+  .buttonnavigationdefaultIcon {
+    position: absolute;
+    height: 14.8%;
+    width: 9.93%;
+    top: -2.92%;
+    right: 4.27%;
+    bottom: 88.13%;
+    left: 85.8%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .button1 {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 54px;
+    background-color: #f4f4f4;
+    box-shadow: -6px -6px 15px rgba(255, 255, 255, 0.78) inset,
+      6px 6px 16px rgba(0, 0, 0, 0.15) inset;
+  }
+  .button,
+  .button1,
+  .search {
+    position: absolute;
+  }
+  .button {
+    height: 2.92%;
+    width: 8.32%;
+    top: 2.01%;
+    right: 12.47%;
+    bottom: 95.07%;
+    left: 79.22%;
+  }
+  .search {
+    height: 2.01%;
+    width: 4.84%;
+    top: 2.56%;
+    left: 81.45%;
+    letter-spacing: 0.02em;
+    color: #8a8a8a;
+    text-align: center;
+    display: inline-block;
+  }
+  .blankLine {
+    margin: 0;
+  }
+  .vspacer {
+    position: relative;
+    display: inline-block;
+    width: 13px;
+  }
+  .thumb {
+    position: absolute;
+    top: 1px;
+    left: calc(50% - 4px);
+    border-radius: var(--br-9xs);
+    background-color: var(--color-silver);
+    width: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .scrollbar {
+    position: absolute;
+    height: 94.08%;
+    width: 1.49%;
+    top: 0;
+    right: 4.15%;
+    bottom: 5.92%;
+    left: 94.36%;
+    background-color: rgba(255, 255, 255, 0.37);
+    backdrop-filter: blur(1.6px);
+    border: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    font-size: var(--font-size-9xs);
+    color: var(--color-silver);
+  }
+  .component2Item {
+    position: absolute;
+    height: 16.44%;
+    width: 11.17%;
+    top: 28.48%;
+    right: 4.9%;
+    bottom: 55.08%;
+    left: 83.92%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .component2Child1,
+  .component2Child2,
+  .component2Child3,
+  .component2Child4,
+  .component2Child5,
+  .polygonIcon {
+    position: absolute;
+    height: 16.44%;
+    width: 11.17%;
+    top: 16.61%;
+    right: 14.46%;
+    bottom: 66.95%;
+    left: 74.36%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .component2Child1,
+  .component2Child2,
+  .component2Child3,
+  .component2Child4,
+  .component2Child5 {
+    top: 12.35%;
+    right: 17.11%;
+    bottom: 71.21%;
+    left: 71.72%;
+  }
+  .component2Child2,
+  .component2Child3,
+  .component2Child4,
+  .component2Child5 {
+    top: 69.4%;
+    right: 13.35%;
+    bottom: 14.16%;
+    left: 75.48%;
+  }
+  .component2Child3,
+  .component2Child4,
+  .component2Child5 {
+    top: 76.47%;
+    right: 20.59%;
+    bottom: 7.09%;
+    left: 68.24%;
+  }
+  .component2Child4,
+  .component2Child5 {
+    top: 76.34%;
+    right: 28.87%;
+    bottom: 7.22%;
+    left: 59.96%;
+  }
+  .component2Child5 {
+    height: 30.47%;
+    width: 20.71%;
+    top: 36.48%;
+    right: 39.84%;
+    bottom: 33.05%;
+    left: 39.45%;
+  }
+  .rectangleDiv {
+    position: absolute;
+    height: 94.08%;
+    width: 51.4%;
+    top: 0;
+    right: 48.6%;
+    bottom: 5.92%;
+    left: 0;
+    background-color: var(--color-gray-100);
+    backdrop-filter: blur(10.8px);
+    border: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+  }
+  .loremIpsumDolorContainer,
+  .welcomeToMy {
+    position: absolute;
+    width: 38.74%;
+    top: 41.65%;
+    left: 7.45%;
+    font-weight: 200;
+    display: inline-block;
+  }
+  .welcomeToMy {
+    height: 6.94%;
+    width: 34.39%;
+    top: 30.33%;
+    left: 9.68%;
+    font-size: 24px;
+  }
+  .iconLeftWrapper {
+    position: relative;
+    width: 16px;
+    height: 24px;
+    display: none;
+  }
+  .label {
+    position: relative;
+    letter-spacing: -0.01em;
+    line-height: 24px;
+  }
+  .button2 {
+    position: absolute;
+    height: 4.38%;
+    width: 9.56%;
+    top: 64.85%;
+    right: 68.34%;
+    bottom: 30.76%;
+    left: 22.1%;
+    border-radius: var(--br-7xs);
+    background-color: var(--primary-silver);
+    box-shadow: var(--neu-silver-outset-medium);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) var(--padding-5xl);
+    box-sizing: border-box;
+    gap: var(--gap-5xs);
+    color: var(--blue-600);
+    font-family: var(--wf-buttons-button-large);
+  }
+  .component2Child6,
+  .melinaFullRender4Icon {
+    position: absolute;
+    height: 30.56%;
+    width: 20.77%;
+    top: 36.48%;
+    right: 24.63%;
+    bottom: 32.96%;
+    left: 54.59%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .melinaFullRender4Icon {
+    height: 60.28%;
+    width: 18.75%;
+    top: 19.55%;
+    right: 29.48%;
+    bottom: 20.17%;
+    left: 51.78%;
+    object-fit: cover;
+  }
+  .component2Child7 {
+    height: 16.04%;
+    width: 10.9%;
+    top: 69.47%;
+    right: 5.25%;
+    bottom: 14.49%;
+    left: 83.85%;
+  }
+  .component2Child7,
+  .component2Child8,
+  .creeperMinecraft5Icon,
+  .zeldaTotkKeyArt3Icon {
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .creeperMinecraft5Icon {
+    height: 39.64%;
+    width: 13.16%;
+    top: 49.51%;
+    right: 14.82%;
+    bottom: 10.85%;
+    left: 72.01%;
+    object-fit: cover;
+  }
+  .component2Child8,
+  .zeldaTotkKeyArt3Icon {
+    height: 16.44%;
+    width: 11.17%;
+    top: 24.04%;
+    right: 7.67%;
+    bottom: 59.52%;
+    left: 81.15%;
+  }
+  .zeldaTotkKeyArt3Icon {
+    height: 53.89%;
+    width: 18.87%;
+    top: 10.6%;
+    right: 6.26%;
+    bottom: 35.51%;
+    left: 74.87%;
+    object-fit: cover;
+  }
+  .anime,
+  .film,
+  .forum,
+  .games,
+  .home,
+  .songs {
+    position: absolute;
+    height: 3.11%;
+    width: 8.69%;
+    top: 2.01%;
+    left: 55.62%;
+    letter-spacing: 0.02em;
+    display: inline-block;
+  }
+  .anime,
+  .forum,
+  .games,
+  .home,
+  .songs {
+    left: 60.59%;
+  }
+  .forum,
+  .games,
+  .home,
+  .songs {
+    left: 66.92%;
+  }
+  .forum,
+  .games,
+  .home {
+    left: 73.38%;
+  }
+  .games,
+  .home {
+    left: 48.92%;
+  }
+  .home {
+    left: 43.08%;
+  }
+  .vectorIcon {
+    position: absolute;
+    height: 1.83%;
+    width: 0.87%;
+    top: 2.74%;
+    right: 19.05%;
+    bottom: 95.43%;
+    left: 80.08%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .stanpedia {
+    position: absolute;
+    height: 7.31%;
+    width: 25.83%;
+    top: 0.55%;
+    left: 3.35%;
+    font-size: 32px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: var(--font-vollkorn-sc);
+    color: #c84811;
+    display: inline-block;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .component2 {
+    width: 805.4px;
+    height: 547.4px;
+    text-align: left;
+    font-size: var(--font-size-3xs);
+    color: var(--color-black);
+    font-family: var(--font-roboto);
+  }
+  .customImageSize {
+    width: 200px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+  }
+  
+  
